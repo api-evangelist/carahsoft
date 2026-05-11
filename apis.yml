@@ -1,0 +1,70 @@
+aid: carahsoft
+name: Carahsoft
+description: >-
+  Carahsoft Technology Corp. is a master government IT solutions
+  aggregator and distributor that resells software, cloud, and
+  cybersecurity products from hundreds of technology vendors to U.S.
+  federal, state, local, defense, intelligence, healthcare, and
+  education customers across 220+ government contract vehicles.
+  Carahsoft operates a partner-facing Developer Center that exposes
+  partner integrations for accounts, quotes, orders, invoices, price
+  lists, purchase orders, and resources; the underlying API is gated
+  behind a partner account and is not a public REST API.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Government IT
+  - Public Sector
+  - Reseller
+  - Distributor
+  - Procurement
+  - Contract Vehicles
+  - Federal
+  - State and Local
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/carahsoft/refs/heads/main/apis.yml
+created: '2026-05-11'
+modified: '2026-05-11'
+specificationVersion: '0.19'
+apis:
+  - aid: carahsoft:partner-api
+    name: Carahsoft Partner API
+    description: >-
+      Partner-only integration surface advertised through the
+      Carahsoft Developer Center covering accounts, quotes, orders,
+      invoices, price lists, purchase orders, and resource
+      distribution. Access requires an authenticated Carahsoft
+      partner account; base URL and authentication scheme are not
+      published publicly.
+    humanURL: https://developer.carahsoft.com/
+    tags:
+      - Accounts
+      - Quotes
+      - Orders
+      - Invoices
+      - Price Lists
+      - Purchase Orders
+      - Resources
+    properties:
+      - type: Developer Portal
+        url: https://developer.carahsoft.com/
+      - type: Developer Center Overview
+        url: https://static.carahsoft.com/concrete/files/4414/7757/7889/DEV_CENTER__APIs.pdf
+
+common:
+  - type: Website
+    url: https://www.carahsoft.com
+  - type: Developer Portal
+    url: https://developer.carahsoft.com
+  - type: Documentation
+    url: https://developer.carahsoft.com/
+  - type: Contract Vehicles
+    url: https://www.carahsoft.com/contracts
+  - type: Contact
+    url: https://www.carahsoft.com/contact
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/carahsoft
+
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
