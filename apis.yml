@@ -52,6 +52,8 @@ apis:
         url: https://static.carahsoft.com/concrete/files/4414/7757/7889/DEV_CENTER__APIs.pdf
 
 common:
+  - type: GitHubOrganization
+    url: https://github.com/carahsoft
   - type: Website
     url: https://www.carahsoft.com
   - type: Developer Portal
