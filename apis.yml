@@ -11,7 +11,7 @@ description: >-
   lists, purchase orders, and resources; the underlying API is gated
   behind a partner account and is not a public REST API.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Government IT
   - Public Sector
