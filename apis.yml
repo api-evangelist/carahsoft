@@ -46,7 +46,7 @@ apis:
       - Purchase Orders
       - Resources
     properties:
-      - type: Developer Portal
+      - type: DeveloperPortal
         url: https://developer.carahsoft.com/
       - type: Developer Center Overview
         url: https://static.carahsoft.com/concrete/files/4414/7757/7889/DEV_CENTER__APIs.pdf
@@ -56,7 +56,7 @@ common:
     url: https://github.com/carahsoft
   - type: Website
     url: https://www.carahsoft.com
-  - type: Developer Portal
+  - type: DeveloperPortal
     url: https://developer.carahsoft.com
   - type: Documentation
     url: https://developer.carahsoft.com/
