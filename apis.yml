@@ -49,6 +49,14 @@ apis:
       published publicly.
     humanURL: https://developer.carahsoft.com/
     tags:
+      - Account
+      - Quotes
+      - Order
+      - Invoices
+      - Price Lists
+      - Purchase Orders
+      - Resources
+    tags_raw:
       - Accounts
       - Quotes
       - Orders
