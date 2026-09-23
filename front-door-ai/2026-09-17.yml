@@ -1,0 +1,30 @@
+# Front Door AI Index — carahsoft — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: carahsoft
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.carahsoft.com
+  final_host: www.carahsoft.com
+  ownership: own
+  owner: carahsoft
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 18
+  host_score: 18
+  density: 5.92
+  words: 3038
+  tiers:
+    agentic: 0
+    core: 17
+    model: 1
+  ambiguous: 14
+  top_terms:
+    AI: 12
+    intelligence: 9
+    artificial intelligence: 5
+    smart: 3
+    agent: 2
+    Gemini: 1
